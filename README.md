@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<img src="C:\Users\~Tanea~\Desktop\Laura\viber_image_2023-10-26_18-45-05-490.jpg" alt="Bughete Comestibile">
     <title>The Art of Inspire - Bughete Comestibile</title>
-
 
     <style>
         body {
@@ -189,5 +187,8 @@
         <p>TikTok: <a href="https://www.tiktok.com/@the.arts.of.inspire" target="_blank">@the.arts.of.inspire</a></p>
     </footer>
 
+    <script>
+        // Poți adăuga aici cod JavaScript dacă este necesar
+    </script>
 </body>
 </html>
